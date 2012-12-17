@@ -1,2 +1,2 @@
-spring-jpa-web-skeleton
+spring jpa web skeleton
 =======================
